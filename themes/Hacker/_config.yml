@@ -1,0 +1,10 @@
+menu:
+  Home: /
+  Archives: /archives
+  About: http://github.com/geakw
+# duoshuo comment
+duoshuo: true
+duoshuo_name: geakw
+
+# google analytics
+googleTrackId: UA-72006779-1
